@@ -17,6 +17,32 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 
 ## How to download
 
+Here we go over how to load the mods and play them!
+
+### Minecraft Launcher:
+
+1. Make a 1.20.1 instance and run it
+2. Download Forge Mod Loader from their site manually (https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
+3. Run the installer
+4. Download all of the mods, shaders, and resourcepacks listed below individually and move them into:
+    1. %appdata%/.minecraft/mods/
+    2. %appdata%/.minecraft/shaders/
+    3. %appdata%/.minecraft/resourcepacks
+5. Re-start the Minecraft Launcher and run the new version listed! Name should contain `Forge`
+
+### Prism Launcher:
+
+Here, you have two options:
+
+1. Manual:
+    1. Add a new instance for 1.20.1
+    2. Under `versions` click `Install Loader` and choose a version of `Forge`
+    3. Download all mods, shaders, and resourcepacks and place them in their respective folder for that instance
+    4. OR download the mods, shadres, and resourcepacks through Prism Launcher itself
+    5. Run and enjoy!
+2. Loading a .mrpack Mod Pack file:
+    1. Download the `
+
 ## Mods by category
 
 > NOTE: The `Latest Link` links are a direct download link. Please use carefully.
@@ -51,7 +77,7 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 
 | Icon/Homepage | Name | Description | Latest Link | Dependencies |
 | --- | --- | --- | --- | --- |
-| [![AA][AA Logo]][AA Link] | Ad Astra | Go to space! Escape this horrible frozen world... for another | [1.15.19](https://cdn.modrinth.com/data/3ufwT9JF/versions/ZXcgZ31q/ad_astra-forge-1.20.1-1.15.19.jar) |
+| [![AA][AA Logo]][AA Link] | Ad Astra | Go to space! Escape this horrible frozen world... for another | [1.15.19](https://cdn.modrinth.com/data/3ufwT9JF/versions/ZXcgZ31q/ad_astra-forge-1.20.1-1.15.19.jar) | Botarium, ResourcefulLib, ResourcefulConfig |
 | [![AF][AF Logo]][AF Link] | Another furniture | Take a seat! Make a bed. Get cozy in your home | [3.0.1](https://cdn.modrinth.com/data/ulloLmqG/versions/cmWbslFO/another_furniture-forge-1.20.1-3.0.1.jar) |
 | [![AS][AS Logo]][AS Link] | Armor Statues | Give your statues a pose and some style | [8.0.6](https://cdn.modrinth.com/data/bbGCtEvb/versions/Oa75lUzE/ArmorStatues-v8.0.6-1.20.1-Forge.jar) | PuzzlesLib |
 | [![AM][AM Logo]][AM Link] | Automobility | CARS! | [0.4.2](https://cdn.modrinth.com/data/rqIsPf9F/versions/46g3IiWw/automobility-0.4.2%2B1.20.1-forge.jar) |
@@ -73,7 +99,8 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 | [![APS][APS Logo]][APS Link] | AppleSkin | The beloved hunger and saturation info display | [2.5.1](https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar) |
 | [![EV][EV Logo]][EV Link] | Enhanced Visuals | Adds some really impactful visuals to temperature, damage, and low health | [1.8.1](https://cdn.modrinth.com/data/KjL0jE2w/versions/mi9Ew0CA/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar) | CreativeCore |
 | [![JEI][JEI Logo]][JEI Link] | Just Enough Items | A (much) better recipe book | [15.20.0.106](https://cdn.modrinth.com/data/u6dRKJwZ/versions/WTWP98yg/jei-1.20.1-forge-15.20.0.106.jar) |
-| [![OF][OF Logo]][OF Link] | OptiFine | We all know it- performance! And more importantly, _shaders_ | [HD U I6](https://optifine.net/downloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=7a26190e4c2a41c743365ff6d49d92fe) | Forge Mod Loader |
+| [![OC][OC Logo]][OC Link] | Oculus | Fork of Iris Shaders to work with FML | [1.8.0](https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar) |
+| [![JZ][JZ Logo]][JZ Link] | Just Zoom | Adds a nice zoom + adjust with mouse scroll | [2.0.0](https://cdn.modrinth.com/data/iAiqcykM/versions/YGC6k663/justzoom_forge_2.0.0_MC_1.20.1.jar) | Konkrete
 | [![PM][PM Logo]][PM Link] | Polymorph | Adds a button to switch recipes when there are multiple possible outcomes | [0.49.8](https://cdn.modrinth.com/data/tagwiZkJ/versions/f95jImsh/polymorph-forge-0.49.8%2B1.20.1.jar) |
 | [![S][S Logo]][S Link] | Sounds | Adds some nice extra sounds when interacting with items/blocks in the world or in the inventory | [2.2.1](https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar) | M.R.U. |
 | [![VW][VW Logo]][VW Link] | Visual Workbench | Keeps items in crafting table after exiting, and shows them in game + crafting result | [8.0.0](https://cdn.modrinth.com/data/kfqD1JRw/versions/c22Z4rsv/VisualWorkbench-v8.0.0-1.20.1-Forge.jar) | PuzzlesLib |
@@ -90,13 +117,13 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 
 | Icon/Homepage | Name | Description | Latest Link | Dependencies |
 | --- | --- | --- | --- | --- |
-| [![PD][PD Logo]][PD Link] | Pizza Delight | Adds compatability for PizzaCraft and Farmer's Delight to work together better | [1.0.1](https://cdn.modrinth.com/data/Cb5J3sNW/versions/xVJwSGA5/pizzadelight-1.0.1-1.20.1.jar) | Farmer's Delight |
 | [![TD][TD Logo]][TD Link] | Tough as Delight | Allows Farmer's Delight's drinks to fill thirst | [1.0.3](https://cdn.modrinth.com/data/oMkTkNdD/versions/2LDgNDLl/toughasdelight-1.0.3-1.20.1.jar) | Tough as Nails, Farmer's Delight |
 
 ### Dependencies
 
 | Icon/Homepage | Name | Latest Link |
 | --- | --- | --- |
+| [![B][B Logo]][B Link] | Boatrium | [2.3.4](https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar) |
 | [![GC][GC Logo]][GC Link] | GlitchCore | [0.0.1.1](https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar) |
 | [![GL][GL Logo]][GL Link] | GeckoLib | [4.7](https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar) |
 | [![PL][PL Logo]][PL Link] | PuzzlesLib | [8.1.25](https://cdn.modrinth.com/data/QAGBst4M/versions/2qznQtPr/PuzzlesLib-v8.1.25-1.20.1-Forge.jar) |
@@ -106,6 +133,8 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 | [![RL][RL Logo]][RL Link] | ResourcefulLib | [2.1.29](https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar) |
 | [![RC][RC Logo]][RC Link] | ResourcefulConfig | [2.1.2](https://cdn.modrinth.com/data/M1953qlQ/versions/irREd1ZJ/resourcefulconfig-forge-1.20.1-2.1.2.jar) |
 | [![C][C Logo]][C Link] | Collective | [7.91](https://cdn.modrinth.com/data/e0M1UDsY/versions/kRVILcx8/collective-1.20.1-7.91.jar) |
+| [![K][K Logo]][K Link] | Konkrete | [1.8.0](https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar) |
+| [![E][E Logo]][E Link] | Embeddium | [0.3.31](https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar) |
 
 ### No Longer Considering
 
@@ -169,8 +198,10 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 [EV Link]: https://modrinth.com/mod/enhancedvisuals "Enhanced Visual Homepage"
 [JEI Logo]: https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp "Just Enough Items Logo"
 [JEI Link]: https://modrinth.com/mod/jei "Just Enough Items Homepage"
-[OF Logo]: https://static.wikia.nocookie.net/explodingtnt/images/0/0c/OptiFine.png/revision/latest?cb=20200616145101 "OptiFine Logo"
-[OF Link]: https://optifine.net/home "OptiFine Homepage"
+[OC Logo]: https://cdn.modrinth.com/data/GchcoXML/09ef853cdfd3d467dead4faef37102535a2185d5_96.webp "Oculus Logo"
+[OC Link]: https://modrinth.com/mod/oculus "Oculus Homepage"
+[JZ Logo]: https://cdn.modrinth.com/data/iAiqcykM/086f0578fb6af5f45b60d4ac966df8b2bbda4b76.png "Just Zoom Logo"
+[JZ Link]: https://modrinth.com/mod/just-zoom "Just Zoom Homepage"
 [PM Logo]: https://cdn.modrinth.com/data/tagwiZkJ/ed244c5829bde539763c7fffb55cb3194a349d66.png "Polymorph Logo"
 [PM Link]: https://modrinth.com/mod/polymorph "Polymorph Homepage"
 [S Logo]: https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp "Sounds Logo"
@@ -187,12 +218,12 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 [GM Link]: https://modrinth.com/mod/grabby-mobs "Grabby Mobs Homepage"
 
 <!-- Support & Add-Ons -->
-[PD Logo]: https://cdn.modrinth.com/data/Cb5J3sNW/ac8d1bafa6fc8895957d31aba41d875133ca4c77.png "Pizza Delight Logo"
-[PD Link]: https://modrinth.com/mod/pizza-delight "Pizza Delight Homepage"
 [TD Logo]: https://cdn.modrinth.com/data/oMkTkNdD/4409a455088cb8e37c5bf9199576cf96f54fbaa6_96.webp "Tough as Delight Logo"
 [TD Link]: https://modrinth.com/mod/tough-as-delight "Tough as Delight Homepage"
 
 <!-- Dependencies -->
+[B Logo]: https://cdn.modrinth.com/data/2u6LRnMa/5770647ce9e78a5db4c75c5cd9c92f6436aeea11_96.webp "Botarium Logo"
+[G Link]: https://modrinth.com/mod/botarium "Botarium Homepage"
 [GC Logo]: https://cdn.modrinth.com/data/s3dmwKy5/76dd9e7bc737a02b723730ab34f536ab43936980.png "GlitchCore Logo"
 [GC Link]: https://modrinth.com/mod/glitchcore "GlitchCore Homepage"
 [GL Logo]: https://cdn.modrinth.com/data/8BmcQJ2H/012d1aadbc754995de66e8c149a56aa10b63fe05_96.webp "GeckoLib Logo"
@@ -211,3 +242,7 @@ A very cool, fun, nearly impossible survival modpack in a fully frozen winter wo
 [RC Link]: https://modrinth.com/mod/resourceful-config "ResourcefulConfig Homepage"
 [C Logo]: https://cdn.modrinth.com/data/e0M1UDsY/f5e4fe9ac298e2c14591920d6bda937c566accd0_96.webp "Collective Logo"
 [C Link]: https://modrinth.com/mod/collective "Collective Homepage"
+[K Logo]: https://cdn.modrinth.com/data/J81TRJWm/4c569bccc9c3b2806060b3d48f7d20447818c941_96.webp "Konkrete Logo"
+[K Link]: https://modrinth.com/mod/konkrete "Konkrete Homepage"
+[E Logo]: https://cdn.modrinth.com/data/sk9rgfiA/55f9c50284f8abbbe2a485abfd6a16209201e451_96.webp "Embeddium Logo"
+[E Link]: https://modrinth.com/mod/embeddium "Embeddium Homepage"
