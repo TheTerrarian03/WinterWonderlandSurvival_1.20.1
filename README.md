@@ -63,6 +63,11 @@ Here, you have two options:
 | [![TL][TL Logo]][TL Link] | Terralith | The world gen biome we all know and love | [2.5.4](https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar) |
 | [![GY][GY Logo]][GY Link] | The Graveyard | Adds an awesome, spooky, new biome & structure based on a graveyard | [3.1](https://cdn.modrinth.com/data/U1jdQuSf/versions/Q66WyQ3F/The_Graveyard_3.1_%28FORGE%29_for_1.20.1.jar) | GeckoLib |
 
+* tidal towns
+* Medieval buildings + end
+* towns and towers
+* Choice Theorem's Overhauled Village
+
 ### Combat, Armor, and Weaponry
 
 | Icon/Homepage | Name | Description | Latest Link | Dependencies |
